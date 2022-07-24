@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joonsar
 - 👀 I’m interested in making games with Unreal and Unity
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity, C# and Python
 
 
 <!---
