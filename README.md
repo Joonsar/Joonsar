@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joonsar
-- 👀 I’m interested in making games with Unreal and Unity
-- 🌱 I’m currently learning Unity, C# and Python
+- 👀 Aspiring developer with a passion for creating interactive and engaging experiences through Unity. I'm on a journey to learn and grow, and I enjoy tackling complex problems. Currently focused on improving my skills in SQL, XAML, and C#. In my free time, you'll find me crafting exciting games and exploring innovative solutions. Let's connect and collaborate on projects that push the boundaries of technology!
+- 🌱 
 
 
 <!---
